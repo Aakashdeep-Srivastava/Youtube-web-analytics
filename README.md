@@ -7,7 +7,8 @@ Within a dynamic 24-hour window, our team embarked on an analytical journey with
 ## 🛠️ Technologies & Methodologies
 
 - **Targeted Analysis**: A deep dive into YouTube's evolving landscape to uncover vital trends and user behaviors.
-- **OCR Transformation**: Utilized `pytesseract`, Python’s powerful OCR library, to scan and extract textual data from images.
+- **OCR Transformation**: Utilized 'pytesseract', Python’s powerful OCR library, to scan and extract textual data from images.
+- **Web Scraping**: Utilized 'BeautifulSoup' custom scripts to efficiently gather and process data directly from the web, enabling a comprehensive analysis of YouTube's public data.
 - **Visualization Expertise**: Leveraged PowerBI to transform complex datasets into compelling visual narratives.
 - **Swift Delivery**: The dashboard was conceptualized and realized in under 24 hours.
 
